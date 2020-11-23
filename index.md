@@ -1,5 +1,5 @@
 ### Dominic's Design Vault
-##### My 
+##### Game projects I have worked on
 ##### Holo-projector not yet installed (ETA: 2506)
 <!--
 **DC-gamedesign/DC-gamedesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
