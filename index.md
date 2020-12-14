@@ -7,7 +7,7 @@ Dominic Chang is a game designer who believes games to be the most immersive for
 ## Contact
 **Email** - dominicchang.gamedesign@gmail.com
 
-**LinkedIn** - https://www.linkedin.com/in/dominic-c/
+**LinkedIn** - [https://www.linkedin.com/in/dominic-c/](https://www.linkedin.com/in/dominic-c/)
 
 ## Projects
 ### Java Jungle
@@ -17,12 +17,12 @@ The result was 𝗝𝗮𝘃𝗮 𝗝𝘂𝗻𝗴𝗹𝗲, a casual puzzle game w
 
 Developed on UE4 for Android and iOS platforms
 
-Give it a try here: https://dominicchanggamedesign.itch.io/javajungle
+Give it a try here: [https://dominicchanggamedesign.itch.io/javajungle](https://dominicchanggamedesign.itch.io/javajungle)
 
 ### Damnation
 Damnation is a dungeon crawler with survival horror elements where you are tasked with escaping a dungeon infested with deranged humanoid creatures, all the while hunted by an aberrant monstrosity.
 
-Give it a try here: https://dominicchanggamedesign.itch.io/damnation
+Give it a try here: [https://dominicchanggamedesign.itch.io/damnation](https://dominicchanggamedesign.itch.io/damnation)
 
 <!--
 **DC-gamedesign/DC-gamedesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
